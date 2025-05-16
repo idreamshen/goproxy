@@ -1,3 +1,3 @@
-module idreamshen.com/httpproxy
+module idreamshen.com/goproxy
 
 go 1.22.7
